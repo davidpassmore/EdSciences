@@ -4,7 +4,7 @@ author:
   - name: David Passmore
     affil: 1,2,\ddagger,*
     orcid: 0000-0001-9307-5164
-  - name: John Doe
+  - name: Chungil Chae
     affil: 2, \dagger, \ddagger
 affiliation:
   - num: 1
@@ -14,9 +14,9 @@ affiliation:
     email: dlp@davidpassmore.net
   - num: 2
     address: |
-      Your department
-      Street, City, Country
-    email: mail@mail.com
+      Wenzhou-Kean University
+      88 Dexue Rd, Wenzhou, China
+    email: cchae@kean.edu
 # firstnote to eighthnote
 firstnote: |
   Current address: Updated affiliation
