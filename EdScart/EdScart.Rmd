@@ -9,7 +9,7 @@ author:
 affiliation:
   - num: 1
     address: |
-      5 Bayard Road, Unit 403 - 
+      5 Bayard Road, Unit 403, 
       Pittsburgh, Pennsylvania 15213-1903 USA
     email: dlp@davidpassmore.net
   - num: 2
@@ -18,8 +18,8 @@ affiliation:
       88 Dexue Rd, Wenzhou, China
     email: cchae@kean.edu
 # firstnote to eighthnote
-firstnote: |
-  Current address: Updated affiliation
+#firstnote: |
+  #Current address: Updated affiliation
 secondnote: |
   These authors contributed equally to this work.
 correspondence: |
